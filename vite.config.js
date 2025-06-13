@@ -7,4 +7,9 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss()
   ],
+  preview: {
+    host: true,
+    port: process.env.PORT || 4173,
+    allowedHosts: ['bonuvon.onrender.com']
+  }
 })
