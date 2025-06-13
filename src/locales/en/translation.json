@@ -1,0 +1,22 @@
+{
+    "home": {
+        "title": "Welcome to Bonavon",
+        "description": "We provide the best services to our customers."
+    },
+    "services": {
+        "title": "Our Services",
+        "item1": "Consulting",
+        "item2": "Development",
+        "item3": "Support"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "name": "Name",
+        "namePlaceholder": "Enter your name",
+        "email": "Email",
+        "emailPlaceholder": "Enter your email",
+        "message": "Message",
+        "messagePlaceholder": "Write your message here",
+        "send": "Send"
+    }
+}
